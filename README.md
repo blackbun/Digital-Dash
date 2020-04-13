@@ -1,3 +1,4 @@
-# Fitness-App
+# Digital Dash
 
-iOS fitness app in Progress.
+iOS fitness app.
+Swift + Apple Maps
