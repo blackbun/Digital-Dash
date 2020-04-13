@@ -1,4 +1,4 @@
 # Digital Dash
 
-iOS fitness app.
-Swift + Apple Maps
+- iOS fitness app.
+- Swift + Apple Maps
